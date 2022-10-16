@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221710066936",
+    "firebase_url": "https://filmprojectdatabase-default-rtdb.firebaseio.com",
+    "project_id": "filmprojectdatabase",
+    "storage_bucket": "filmprojectdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221710066936:android:80571285900210ce06070d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221710066936-h2kn3151mreolflftodtoiae84lfn53n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyu7FbcCvzH4Ye7V-qKbgBm0S6C6N1dX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221710066936-h2kn3151mreolflftodtoiae84lfn53n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
